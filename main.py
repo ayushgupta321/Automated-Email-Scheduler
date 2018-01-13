@@ -8,8 +8,8 @@ import openpyxl
 smtpObj = smtplib.SMTP('smtp.gmail.com', 587)
 smtpObj.ehlo()
 smtpObj.starttls()
-
-smtpObj.login('xyz05556@gmail.com', '1@3$5^7*')
+password= input('Enter Password')
+smtpObj.login('xyz05556@gmail.com', password)
 wb = openpyxl.load_workbook('example.xlsx')
 sheet = wb.get_sheet_by_name('Sheet1')
 
