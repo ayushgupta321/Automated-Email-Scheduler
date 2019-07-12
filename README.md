@@ -1,1 +1,2 @@
-# Birthday-Email-Automation
+# Automated-Email-Scheduler
+
