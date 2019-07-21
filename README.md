@@ -12,7 +12,15 @@ The project itself is based on Python3 and further uses libraries which may requ
 ## Using the Project
 
 After installing, open the gui.py file by typing `python gui.py` in your console. Make sure to change directory to where the file is stored.
-If everything is installed correctly, it should look like this- 
+If everything is installed correctly, it should look like this-
+
+<br />
+
+<center>
+  
+ ![Image](https://github.com/ayushgupta321/Automated-Email-Scheduler/blob/master/proj.PNG) 
+ 
+</center>
 
 
 Not the best GUI, I know! However it does its job. Follow the labels and enter the date ,the event and the recipients and click submit. 
